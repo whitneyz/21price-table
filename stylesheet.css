@@ -1,0 +1,21 @@
+
+h5 {
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+}
+
+body {
+    background-color: #2B2D6E;
+}
+
+div {
+
+}
+
+#mainheader {
+    width: 600px;
+    height: 150px;
+    align-content: center;
+    margin: 100px;
+    padding: 10px 20px;
+}
