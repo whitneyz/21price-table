@@ -1,21 +1,26 @@
 
 h5 {
     font-family: 'Poppins', sans-serif;
-    color: whitesmoke;
+    color: #FFFFFF;
 }
 
 body {
     background-color: #2B2D6E;
 }
 
-div {
-
+.containerfirst {
+    width: 350px;
+    height: 50px;
+    margin: 100px auto;
+    padding: 20px;
 }
-
+p {
+    color: #FFFFFF;
+    font-size: 10px;
+}
 #mainheader {
-    width: 600px;
-    height: 150px;
-    align-content: center;
-    margin: 100px;
-    padding: 10px 20px;
+    font-size: 20px;
+}
+.card-title {
+    color: #2B2D6E;
 }
