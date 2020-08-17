@@ -24,3 +24,13 @@ p {
 .card-title {
     color: #2B2D6E;
 }
+.fa-ul {
+    font-size: 10px;
+}
+.card-price {
+    font-size: 40px;
+    font-weight: bold;
+}
+.btn {
+  color: #EFF0F1;
+}
